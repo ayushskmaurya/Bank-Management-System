@@ -1,0 +1,1 @@
+This folder is created to store data of each user.
